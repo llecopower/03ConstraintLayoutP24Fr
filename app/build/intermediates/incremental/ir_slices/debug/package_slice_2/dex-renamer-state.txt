@@ -1,0 +1,4 @@
+#Mon Jan 28 10:01:44 EST 2019
+base.0=C\:\\AndroidProjects2019\\03ConstraintLayoutP24Fr\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
